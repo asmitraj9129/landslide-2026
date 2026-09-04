@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Aizawl",
+        "state": "Mizoram",
+        "rainfall": 185,
+        "soilMoisture": 78,
+        "slope": 42,
+        "risk": 86,
+        "status": "HIGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92.7176, 23.7271]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Shillong",
+        "state": "Meghalaya",
+        "rainfall": 150,
+        "soilMoisture": 65,
+        "slope": 30,
+        "risk": 65,
+        "status": "MODERATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [91.8933, 25.5788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Gangtok",
+        "state": "Sikkim",
+        "rainfall": 210,
+        "soilMoisture": 82,
+        "slope": 48,
+        "risk": 91,
+        "status": "CRITICAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.6139, 27.3389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Itanagar",
+        "state": "Arunachal Pradesh",
+        "rainfall": 120,
+        "soilMoisture": 55,
+        "slope": 22,
+        "risk": 40,
+        "status": "LOW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [93.6167, 27.0844]
+      }
+    }
+  ]
+}
